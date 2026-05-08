@@ -5,7 +5,7 @@
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-## Attribution / 署名与来源声明（严格版）
+## Attribution / 署名与来源声明
 
 When you copy, redistribute, or include this project (or its substantial portions) in your own work, you must:
 
